@@ -1,0 +1,38 @@
+{
+  "name": "surreal-theme",
+  "displayName": "Surreal Theme",
+  "version": "1.0.0",
+  "description": "A surreal theme for Visual Studio Code",
+  "icon": "icon.png",  
+  "publisher": "Shayan-Chakraborty",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Surreal",
+        "uiTheme": "vs-dark", 
+        "path": "./themes/surreal-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shayan-R7/vscode-theme-surreal.git" 
+  },
+  "keywords": ["surreal", "theme", "visual studio code"],
+  "license": "MIT",  
+  "bugs": {
+    "url": "https://github.com/Shayan-R7/vscode-theme-surreal/issues"  
+  },
+  "homepage": "https://github.com/Shayan-R7/vscode-theme-surreal",  
+  "devDependencies": {
+    "typescript": "^4.0.0", 
+    "vscode": "^1.60.0"
+  }
+}
