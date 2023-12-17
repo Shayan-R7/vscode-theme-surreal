@@ -3,8 +3,7 @@
   "displayName": "Surreal Theme",
   "version": "1.0.0",
   "description": "A surreal theme for Visual Studio Code",
-  "icon": "icon.png",  
-  "publisher": "Shayan-Chakraborty",
+  "publisher": "ShayanChakraborty",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -25,7 +24,7 @@
     "type": "git",
     "url": "https://github.com/Shayan-R7/vscode-theme-surreal.git" 
   },
-  "keywords": ["surreal", "theme", "visual studio code"],
+  "keywords": ["surreal", "theme", "visual studio code", "dark theme", "dark themes", "futuristic themes", "dark high contrast"],
   "license": "MIT",  
   "bugs": {
     "url": "https://github.com/Shayan-R7/vscode-theme-surreal/issues"  
